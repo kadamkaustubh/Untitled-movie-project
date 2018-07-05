@@ -13,7 +13,7 @@ Dependencies:
 Images generated:
 IMDb vs Metacritic Ratings
 
-   ![imdb_gross_corr](C:\Users\kadam\Documents\Movie project\plots\imdb_gross_corr.png)
+   ![imdb_gross_corr](plots\imdb_gross_corr.png)
 
 
    ![imdb_metacritic_corr](C:\Users\kadam\Documents\Movie project\plots\imdb_metacritic_corr.png)
